@@ -1,0 +1,26 @@
+{
+  "template": "/home/iwana/sw/d/github.com/aucampia/cookiecutter-python",
+  "commit": "eb3276c1ea47b50d46d8b4281ef8bb5fe96ec363",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "20231204-pulumi-azure",
+      "python_package_fqname": "example.kron.pulumi_azure_20231204",
+      "project_url": "https://example.com/project",
+      "project_dirname": "20231204-pulumi-azure",
+      "project_short_description": "20231204-pulumi-azure",
+      "cli_name": "example.kron.pulumi_azure_20231204-cli",
+      "sdpx_license_identifier": "UNLICENSED",
+      "version": "0.0.0",
+      "python_version": "3.11",
+      "git_init": "n",
+      "git_commit": "n",
+      "variant": "basic",
+      "build_tool": "go-task",
+      "use_poetry_dynamic_versioning": "n",
+      "use_oci_devtools": "n",
+      "_template": "/home/iwana/sw/d/github.com/aucampia/cookiecutter-python"
+    }
+  },
+  "directory": null
+}

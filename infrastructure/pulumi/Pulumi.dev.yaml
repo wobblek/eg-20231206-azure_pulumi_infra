@@ -1,0 +1,6 @@
+encryptionsalt: v1:mZtfPXBSthA=:v1:TGT67XvO1ceYK5Fc:NSCDPcKSA13EJyd5NESQKaBv0rhVdg==
+config:
+  azure-native:location: germanywestcentral
+  azure-native:tenantId: b19aa337-2a37-4e61-8347-6e68d85c6fe4
+  azure-native:subscriptionId: 2d1be1e4-fe00-4cfc-a269-b9500fc41ae8
+  azuread:tenantId: b19aa337-2a37-4e61-8347-6e68d85c6fe4

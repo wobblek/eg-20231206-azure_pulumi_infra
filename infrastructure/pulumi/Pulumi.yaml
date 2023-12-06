@@ -1,0 +1,9 @@
+name: 20231204-pulumi-azure
+runtime:
+  # https://www.pulumi.com/docs/reference/pkg/nodejs/pulumi/pulumi/runtime/
+  name: python
+  # https://www.pulumi.com/docs/languages-sdks/python/#pypi-packages
+  options:
+    # https://github.com/pulumi/pulumi/blob/397b871585c709b18c3822de0a5c47c76d572ff0/sdk/python/cmd/pulumi-language-python/main.go#L91-L182
+    root: src/example/kron/pulumi_azure_20231204
+description: ...
